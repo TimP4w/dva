@@ -1,0 +1,11 @@
+# run: conda env create --file environment.yml
+name: dv2019
+dependencies:
+  - python>=3.3
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - bokeh
+  - scikit-learn
